@@ -169,6 +169,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 ## Game dev ##
 
+* [Apus Game Engine](https://github.com/Cooler2/ApusGameEngine). An open source Delphi/Pascal game engine which is published under the BSD-3 license. 
+* 
 * [RecastNavigation](https://github.com/Kromster80/RecastNavigationDelphi). Navigation mesh construction toolset for games. Recast is accompanied with Detour, path-finding and spatial reasoning toolkit. You can use any navigation mesh with Detour, but of course the data generated with Recast fits perfectly. This is a port of the original RecastNavigation written in C++.
 
 * [Kraft Physics Engine](https://github.com/BeRo1985/kraft). Open source Object Pascal physics engine library that can be used in 3D games. Compatible with: Delphi 7-XE7 (but not with the Android and iOS targets), FreePascal >= 2.6.2 (with almost all FPC-supported targets including Android and iOS) 
